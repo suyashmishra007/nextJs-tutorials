@@ -1,7 +1,0 @@
-function handler(req, res) {
-  return res.status(200).send({
-    message: "This works !!",
-  });
-}
-
-export default handler;
